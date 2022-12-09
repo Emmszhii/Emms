@@ -39,10 +39,10 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita
-            magni, illum culpa amet sed officiis? Facere autem voluptate,
-            quisquam deleniti quo, ipsam, recusandae fuga atque nihil similique
-            tempora excepturi corrupti!
+            Seeking a challenging opportunity where I will be able to utilize my
+            strong organizational skills, educational background and ability to
+            work well with people, which will allow me to grow personally and
+            professionally.
           </p>
 
           <a href="#contact" className="btn btn-primary">
