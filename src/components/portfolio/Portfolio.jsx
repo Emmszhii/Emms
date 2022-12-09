@@ -20,14 +20,14 @@ const data = [
     image: expenseTracker,
     title: 'Expense Tracker',
     github: 'https://github.com/Emmszhii/Expense-Tracker',
-    demo: 'https://github.com/Emmszhii/Expense-Tracker',
+    demo: 'https://expense-tracker-0d0e.onrender.com',
   },
   {
     id: '3',
     image: foodOrder,
     title: 'Food Order Application',
     github: 'https://github.com/Emmszhii/forkify-application',
-    demo: 'https://github.com/Emmszhii/Food-Order-App',
+    demo: 'https://foodorder.onrender.com',
   },
   {
     id: '4',
